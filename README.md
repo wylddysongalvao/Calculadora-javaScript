@@ -10,7 +10,7 @@
   <br>
   https://calculadora-java-script-opxzthg4s.vercel.app/
   <br>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-wylddyson-galv%C3%A3o-3b6365132/" >Contato</a>
+  
 
 </p>
 
@@ -21,3 +21,6 @@ Html <br>
 CSS <br>
 
 Criado por <a href="https://github.com/wylddysongalvao">Wylddyson Galvão</a>
+<br>
+
+<a href="https://www.linkedin.com/in/jos%C3%A9-wylddyson-galv%C3%A3o-3b6365132/" >Contato</a>
