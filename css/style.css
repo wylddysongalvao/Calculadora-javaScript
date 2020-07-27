@@ -42,7 +42,9 @@ html, body {
   flex-direction: column;
   text-align: center;
   border: 3px solid white;
-  padding: 3em;
+  padding: 2em;
+  padding-left: 3em;
+  padding-right: 3em;
 
 }
 
@@ -65,4 +67,7 @@ footer {
   margin: 0.6em;
   height: 2em;
   border: none;
+}
+#orientacao {
+  color: white;
 }
