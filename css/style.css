@@ -1,0 +1,68 @@
+html, body {
+  background-color: darkslateblue;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+.container div {
+  margin: 10px;
+}
+
+#numero1 {
+  text-align: center;
+  width: 25em;
+}
+#numero2 {
+  text-align: center;
+  width: 25em;
+}
+
+#oper {
+  color: white;
+  font-weight: bold;
+  
+}
+#resultado {
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+}
+#meio {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border: 3px solid white;
+  padding: 3em;
+
+}
+
+h1 {
+  color: white;
+}
+
+footer {
+  color: white;
+  font-weight: bold;
+  margin-top: 2em;
+}
+#igual {
+  width: 10em;
+  height: 2em;
+  border: none;
+}
+#operacoes input {
+  width: 40px;
+  margin: 0.6em;
+  height: 2em;
+  border: none;
+}

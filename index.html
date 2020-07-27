@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta  charset="UTF-8">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Calculadora</title>
+  </head>
+  <body>
+    <div class="container">
+      <div id="meio" >
+        <h1>Aproveite a calculadora!</h1>
+        <div>
+          <input id="numero1" type="text" value="0">
+        </div>
+        <div>
+          <a id="oper">+</a>
+        </div>
+        <div>
+          <input id="numero2" tytpe="text" value="0">
+        </div>
+        <div id="operacoes">
+          <input onclick="soma()" type="button" value="+" >
+          <input onclick="sub()" type="button" value="-" >
+          <input onclick="div()" type="button" value="/" >
+          <input onclick="mult()" type="button" value="*" >
+          <input onclick="raiz()" type="button" value="√">
+          <input onclick="percent()" type="button" value="%">
+        </div>
+        <div>
+          <input id="igual" onclick="igual()" type="button" value="=" >
+        </div>
+        <div>
+          <a id="resultado">Resultado</a>
+        </div>
+      
+      </div>
+      <footer><a>Desenvolvido by Wylddyson Galvão</a></footer>
+    </div>
+<script type="text/javascript" src="js/function.js"></script>
+
+  </body>
+
+</html>
