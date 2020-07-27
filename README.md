@@ -6,7 +6,7 @@
 <h3 align="center"> Calculadora em JavaScript </h3>
 
 <p align="center">
-  Calculadores capaz de fazer operações de soma, subtração, multiplicação, divisão, raiz e percentagem.
+  Calculadora capaz de fazer operações de soma, subtração, multiplicação, divisão, raiz e percentagem.
   <br>
   https://calculadora-java-script-opxzthg4s.vercel.app/
   <br>
